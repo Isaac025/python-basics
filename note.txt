@@ -2,3 +2,7 @@
 -- to use formatted string literals, begin a string with f or F before the opening quotation mark or triple quotation mark. inside this string, you can write a python expression between { and }  characters that can refer to variables or literal values
 
 -- When you see import math at the top of a Python file, it means you are loading Python’s built‑in math module so you can use its mathematical functions and constants in your program.
+
+conditional expression = A one line shortcut for the if-else statemenr (Tenary operator)
+print or assign one of two values based on a condition
+X if condition else Y
