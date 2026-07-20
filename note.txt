@@ -6,3 +6,7 @@
 conditional expression = A one line shortcut for the if-else statemenr (Tenary operator)
 print or assign one of two values based on a condition
 X if condition else Y
+
+-- there is a lot of overlap where you could use either a while loop or a for loop. while loops tend to be better if you need to execute something possibly infinite amount of times, such as when you are accepting user input, for example.
+
+-- a set is a collection thatis unordered and immutable. You can't change the values,  but adding and removing elements is okay. No duplicates are allowed. 

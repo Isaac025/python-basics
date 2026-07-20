@@ -1,6 +1,6 @@
 # format specifiers = {:flags} format a value based on what flags are inserted
 
-# .(number)f = round to that many decimal places (fixed point)
+# :.(number)f = round to that many decimal places (fixed point)
 # :(number) = allocate that many spaces
 # :03 = allocate and zero pad that many spaces
 # :< = left justify
